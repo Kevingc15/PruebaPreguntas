@@ -1,0 +1,579 @@
+{
+  "preguntas": [
+    {
+      "nivel": 1,
+      "categoria": "Deportes",
+      "enunciado": "Cuanto dura un partido de futbol",
+      "respuestas": [
+        {
+            "texto": "90 minutos",
+            "correcta": true
+        },
+        {
+            "texto": "80 minutos",
+            "correcta": false
+        },
+        {
+            "texto": "80 minutos",
+            "correcta": false
+        },
+        {
+            "texto": "80 minutos",
+            "correcta": false
+        }
+      ]
+    },
+    {
+      "nivel": 1,
+      "categoria": "Deportes",
+      "enunciado": "Cuando se celebro el primer mundial de futbol?",
+      "respuestas": [
+        {
+            "texto": "El 15 de Agosto de 1920",
+            "correcta": false
+        },
+        {
+            "texto": "El 13 de julio de 1930",
+            "correcta": true
+        },
+        {
+            "texto": "El 13 de julio de 1990",
+            "correcta": false
+        },
+        {
+            "texto": "El 15 de septiembre de 1910",
+            "correcta": false
+        }
+    ]
+    },
+    {
+      "enunciado": "Quien gano el mundial de 1998?",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "texto": "Francia",
+                "correcta": true
+            },
+            {
+                "texto": "Brasil",
+                "correcta": false
+            },
+            {
+                "texto": "Alemania",
+                "correcta": false
+            },
+            {
+                "texto": "Argentina",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual es el equipo mas famoso de la ciudad italiana de Turin",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "texto": "Juventus",
+                "correcta": true
+            },
+            {
+                "texto": "Napoles",
+                "correcta": false
+            },
+            {
+                "texto": "Torino",
+                "correcta": false
+            },
+            {
+                "texto": "AC Milan",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual entrenador argentino es conocido como \"El Cholo\"",
+        "nivel": 1,
+        "categoria": "Deportes",
+        "respuestas": [
+            {
+                "texto": "Diego Simeone",
+                "correcta": true
+            },
+            {
+                "texto": "Diego Maradona",
+                "correcta": false
+            },
+            {
+                "texto": "Pochetino",
+                "correcta": false
+            },
+            {
+                "texto": "Carlo Ancheloti",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual es el rio mas largo del mundo",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "texto": "Andino",
+                "correcta": false
+            },
+            {
+                "texto": "Nilo",
+                "correcta": false
+            },
+            {
+                "texto": "Amazonas",
+                "correcta": true
+            },
+            {
+                "texto": "Houston",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual es el pais con mas habitantes del mundo",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "texto": "India",
+                "correcta": false
+            },
+            {
+                "texto": "Egipto",
+                "correcta": false
+            },
+            {
+                "texto": "China",
+                "correcta": true
+            },
+            {
+                "texto": "Japon",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual es el edificio mas alto del mundo",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "texto": "Empire State",
+                "correcta": false
+            },
+            {
+                "texto": "Colpatria",
+                "correcta": false
+            },
+            {
+                "texto": "Burj Khalifa",
+                "correcta": true
+            },
+            {
+                "texto": "Coltejer",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Donde esta Transilvania",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "texto": "Irlanda",
+                "correcta": false
+            },
+            {
+                "texto": "Escocia",
+                "correcta": false
+            },
+            {
+                "texto": "Rumania",
+                "correcta": true
+            },
+            {
+                "texto": "Ucrania",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual es el pais con menos habitantes del mundo?",
+        "nivel": 2,
+        "categoria": "Cultura General",
+        "respuestas": [
+            {
+                "texto": "Cuba",
+                "correcta": false
+            },
+            {
+                "texto": "Escocia",
+                "correcta": false
+            },
+            {
+                "texto": "Vaticano",
+                "correcta": true
+            },
+            {
+                "texto": "Nueva Zelanda",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Que es Zelandia",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "texto": "Un parque tematico",
+                "correcta": false
+            },
+            {
+                "texto": "Un continente",
+                "correcta": true
+            },
+            {
+                "texto": "Un pais del hemisferio norte",
+                "correcta": false
+            },
+            {
+                "texto": "Una ciudad islandesa",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "El punto mas profundo de la fosa de las Marianas esta exactamente a...",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "texto": "11.044 metros de profundidad",
+                "correcta": false
+            },
+            {
+                "texto": "11.034 metros de profundidad",
+                "correcta": true
+            },
+            {
+                "texto": "11.054 metros de profundidad",
+                "correcta": false
+            },
+            {
+                "texto": "11.144 metros de profundidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual es el pais de los 1.000 lagos?",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "texto": "Brasil",
+                "correcta": false
+            },
+            {
+                "texto": "Finlandia",
+                "correcta": true
+            },
+            {
+                "texto": "Estados Unidos",
+                "correcta": false
+            },
+            {
+                "texto": "Canada",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Donde esta la region mas pobre del mundo",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "texto": "En Zimbabue",
+                "correcta": false
+            },
+            {
+                "texto": "En Sahel",
+                "correcta": true
+            },
+            {
+                "texto": "Estados Unidos",
+                "correcta": false
+            },
+            {
+                "texto": "En Honduras",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "El rio mas largo de Europa es...",
+        "nivel": 3,
+        "categoria": "Geografia",
+        "respuestas": [
+            {
+                "texto": "El Tajo",
+                "correcta": false
+            },
+            {
+                "texto": "El Volga",
+                "correcta": true
+            },
+            {
+                "texto": "El Tamesis",
+                "correcta": false
+            },
+            {
+                "texto": "El Ebro",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Donde realizan las plantas la fotosintesis",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "texto": "En las hojas.",
+                "correcta": true
+            },
+            {
+                "texto": "En el aire.",
+                "correcta": false
+            },
+            {
+                "texto": "En el tallo.",
+                "correcta": false
+            },
+            {
+                "texto": "En la raiz.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Que necesitan las celulas para dividirse?",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "texto": "Nada.",
+                "correcta": false
+            },
+            {
+                "texto": "Otra celula.",
+                "correcta": false
+            },
+            {
+                "texto": "Sangre.",
+                "correcta": false
+            },
+            {
+                "texto": "Energia.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "Que fases tiene la fotosintesis",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "texto": "No tiene fases.",
+                "correcta": false
+            },
+            {
+                "texto": "Activa y pasiva.",
+                "correcta": false
+            },
+            {
+                "texto": "Primaria y secundaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Luminosa y oscura..",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "Las celulas reproductoras se dividen por...",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "texto": "No se puede",
+                "correcta": false
+            },
+            {
+                "texto": "Metamorfosis.",
+                "correcta": false
+            },
+            {
+                "texto": "Mitosis.",
+                "correcta": false
+            },
+            {
+                "texto": "Meiosis.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "Que tipos de semillas hay",
+        "nivel": 4,
+        "categoria": "Biologia",
+        "respuestas": [
+            {
+                "texto": "Monocotiledoneas.",
+                "correcta": false
+            },
+            {
+                "texto": "Dicotiledoneas.",
+                "correcta": false
+            },
+            {
+                "texto": "Con fruto o sin fruto.",
+                "correcta": false
+            },
+            {
+                "texto": "Monocotiledoneas y dicotiledoneas.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "Cual es la representacion grafica del numero nueve mil treinta y seis.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "texto": "990036",
+                "correcta": false
+            },
+            {
+                "texto": "90036",
+                "correcta": false
+            },
+            {
+                "texto": "9036",
+                "correcta": true
+            },
+            {
+                "texto": "936",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "A cuantas unidades equivale 10 decenas de millar.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "texto": "10000",
+                "correcta": false
+            },
+            {
+                "texto": "1000",
+                "correcta": false
+            },
+            {
+                "texto": "100000 ",
+                "correcta": true
+            },
+            {
+                "texto": "10",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Aproxima el numero 58 a la decena.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "texto": "59",
+                "correcta": false
+            },
+            {
+                "texto": "50",
+                "correcta": false
+            },
+            {
+                "texto": "60 ",
+                "correcta": true
+            },
+            {
+                "texto": "55",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Escribe el numero ordinal trigesimo quinto en cifras.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "texto": "123",
+                "correcta": false
+            },
+            {
+                "texto": "135",
+                "correcta": false
+            },
+            {
+                "texto": "35 ",
+                "correcta": true
+            },
+            {
+                "texto": "25",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "Que cantidad expresa el numero romano V.",
+        "nivel": 5,
+        "categoria": "Matematicas",
+        "respuestas": [
+            {
+                "texto": "23",
+                "correcta": false
+            },
+            {
+                "texto": "135",
+                "correcta": false
+            },
+            {
+                "texto": "5",
+                "correcta": true
+            },
+            {
+                "texto": "25",
+                "correcta": false
+            }
+        ]
+    }
+  ]
+}
